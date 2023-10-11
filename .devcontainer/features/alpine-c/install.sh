@@ -1,3 +1,2 @@
-"Features":{
-"alpine/aports/main/c-ares"
-}
+FROM alpine:latest
+RUN apk add glib
