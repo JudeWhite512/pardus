@@ -1,2 +1,1 @@
-FROM alpine:latest
-RUN apk add glib
+apk add glib
