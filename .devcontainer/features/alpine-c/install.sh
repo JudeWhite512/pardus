@@ -1,1 +1,1 @@
-apk add glib
+apk add build-base
